@@ -95,8 +95,6 @@
   <ItemGroup>
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="Controllers\CountdownController.cs" />
-    <Compile Include="Data\IEntity.cs" />
-    <Compile Include="Data\IRepository.cs" />
     <Compile Include="Utilities\GifEncoder.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

@@ -1,6 +1,7 @@
 ﻿using System.Data.Entity;
 using System.Linq;
-using Countail.Web.Data;
+using Countail.Data.Data;
+
 
 namespace Countail.Data
 {

@@ -1,6 +1,6 @@
 ﻿using System.Linq;
 
-namespace Countail.Web.Data
+namespace Countail.Data.Data
 {
     public interface IRepository<T> where T : IEntity
     {

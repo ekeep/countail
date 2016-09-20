@@ -1,4 +1,4 @@
-﻿namespace Countail.Web.Data
+﻿namespace Countail.Data.Data
 {
     public abstract class IEntity
     {
