@@ -53,12 +53,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Countail.Web\Countail.Web.csproj">
-      <Project>{3246362B-622F-4771-B0D7-F5597D86F38E}</Project>
-      <Name>Countail.Web</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
   </ItemGroup>
