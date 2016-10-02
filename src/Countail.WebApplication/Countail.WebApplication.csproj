@@ -128,6 +128,10 @@
     <Folder Include="Views\Countdown\" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Countail.Core\Countail.Core.csproj">
+      <Project>{706facf8-63f8-4d7b-87f1-794ea44a4247}</Project>
+      <Name>Countail.Core</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Countail.Data\Countail.Data.csproj">
       <Project>{13a3b93d-d9a7-44d2-affe-b5a0f312cbe8}</Project>
       <Name>Countail.Data</Name>

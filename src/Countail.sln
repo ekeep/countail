@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countail.Data", "Countail.Data\Countail.Data.csproj", "{13A3B93D-D9A7-44D2-AFFE-B5A0F312CBE8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countail.WebApplication", "Countail.WebApplication\Countail.WebApplication.csproj", "{7B1F8A86-F1B8-4122-9C24-08489DE41A27}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Countail.Core", "Countail.Core\Countail.Core.csproj", "{706FACF8-63F8-4D7B-87F1-794EA44A4247}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{7B1F8A86-F1B8-4122-9C24-08489DE41A27}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B1F8A86-F1B8-4122-9C24-08489DE41A27}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B1F8A86-F1B8-4122-9C24-08489DE41A27}.Release|Any CPU.Build.0 = Release|Any CPU
+		{706FACF8-63F8-4D7B-87F1-794EA44A4247}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706FACF8-63F8-4D7B-87F1-794EA44A4247}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706FACF8-63F8-4D7B-87F1-794EA44A4247}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706FACF8-63F8-4D7B-87F1-794EA44A4247}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
